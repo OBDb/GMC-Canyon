@@ -1,0 +1,58 @@
+command_id: 7E0.0169
+test_cases:
+- expected_values:
+    EGR_A_ACT: 0
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 0
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: 0
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 0
+    EGR_B_ACT_SUP: 0
+    EGR_B_CMD: 0
+    EGR_B_CMD_SUP: 0
+    EGR_B_ERR: -100
+    EGR_B_ERR_SUP: 0
+  response: "0169\n7E8 10 09 41 69 07 00 00 80 \n7E8 21 00 00 00 AA AA AA AA "
+- expected_values:
+    EGR_A_ACT: 1.17647
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 1.17647
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: 10.9375
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 0
+    EGR_B_ACT_SUP: 0
+    EGR_B_CMD: 0
+    EGR_B_CMD_SUP: 0
+    EGR_B_ERR: -100
+    EGR_B_ERR_SUP: 0
+  response: "0169\n7E8 10 09 41 69 07 03 03 8E \n7E8 21 00 00 00 AA AA AA AA "
+- expected_values:
+    EGR_A_ACT: 1.56863
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 1.56863
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: -11.71875
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 0
+    EGR_B_ACT_SUP: 0
+    EGR_B_CMD: 0
+    EGR_B_CMD_SUP: 0
+    EGR_B_ERR: -100
+    EGR_B_ERR_SUP: 0
+  response: "0169\n7E8 10 09 41 69 07 04 04 71 \n7E8 21 00 00 00 AA AA AA AA "
+- expected_values:
+    EGR_A_ACT: 2.7451
+    EGR_A_ACT_SUP: 1
+    EGR_A_CMD: 3.13725
+    EGR_A_CMD_SUP: 1
+    EGR_A_ERR: -2.34375
+    EGR_A_ERR_SUP: 1
+    EGR_B_ACT: 0
+    EGR_B_ACT_SUP: 0
+    EGR_B_CMD: 0
+    EGR_B_CMD_SUP: 0
+    EGR_B_ERR: -100
+    EGR_B_ERR_SUP: 0
+  response: "0169\n7E8 10 09 41 69 07 08 07 7D \n7E8 21 00 00 00 AA AA AA AA "
