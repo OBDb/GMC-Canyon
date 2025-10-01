@@ -1,0 +1,32 @@
+command_id: 7E0.2211A1
+test_cases:
+- expected_values:
+    GMC_RUNTM: 1667
+  response: "2211A1\n7E8 05 62 11 A1 06 83 "
+- expected_values:
+    GMC_RUNTM: 1721
+  response: "2211A1\n7E8 05 62 11 A1 06 B9 "
+- expected_values:
+    GMC_RUNTM: 2147
+  response: "2211A1\n7E8 05 62 11 A1 08 63 "
+- expected_values:
+    GMC_RUNTM: 1697
+  response: "2211A11\n7E8 05 62 11 A1 06 A1 "
+- expected_values:
+    GMC_RUNTM: 1786
+  response: "2211A11\n7E8 05 62 11 A1 06 FA "
+- expected_values:
+    GMC_RUNTM: 2053
+  response: "2211A11\n7E8 05 62 11 A1 08 05 "
+- expected_values:
+    GMC_RUNTM: 0
+  response: '7E8 05 62 11 A1 00 00 '
+- expected_values:
+    GMC_RUNTM: 0
+  response: 7E8056211A10000
+- expected_values:
+    GMC_RUNTM: 1023
+  response: 7E8056211A103FF
+- expected_values:
+    GMC_RUNTM: 6422
+  response: 7E8056211A11916

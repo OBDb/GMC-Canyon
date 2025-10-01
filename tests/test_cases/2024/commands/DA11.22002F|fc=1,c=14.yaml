@@ -1,0 +1,38 @@
+command_id: DA11.22002F|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_AUX_V: 8.8
+    GMC_FLI: 34.5098
+  response: 142AF1110462002F58
+- expected_values:
+    GMC_AUX_V: 24.8
+    GMC_FLI: 97.2549
+  response: 142AF1110462002FF8
+- expected_values:
+    GMC_AUX_V: 14.9
+    GMC_FLI: 58.43137
+  response: 18DAF1110462002F95
+- expected_values:
+    GMC_AUX_V: 13.9
+    GMC_FLI: 54.5098
+  response: |-
+    22002F1
+    142AF1110462002F8B
+- expected_values:
+    GMC_AUX_V: 14.4
+    GMC_FLI: 56.47059
+  response: |-
+    22002F1
+    142AF1110462002F90
+- expected_values:
+    GMC_AUX_V: 16.9
+    GMC_FLI: 66.27451
+  response: |-
+    22002F1
+    142AF1110462002FA9
+- expected_values:
+    GMC_AUX_V: 15
+    GMC_FLI: 58.82353
+  response: |-
+    22002F1
+    18DAF1110462002F96
