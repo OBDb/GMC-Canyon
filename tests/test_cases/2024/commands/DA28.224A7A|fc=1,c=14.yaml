@@ -1,0 +1,44 @@
+command_id: DA28.224A7A|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_TIRE_FL_VSS: 0
+    GMC_TIRE_FR_VSS: 0
+    GMC_TIRE_RL_VSS: 0
+    GMC_TIRE_RR_VSS: 0
+  response: 142AF12807624A7A00000000
+- expected_values:
+    GMC_TIRE_FL_VSS: 87
+    GMC_TIRE_FR_VSS: 87
+    GMC_TIRE_RL_VSS: 87
+    GMC_TIRE_RR_VSS: 88
+  response: 142AF12807624A7A57575758
+- expected_values:
+    GMC_TIRE_FL_VSS: 88
+    GMC_TIRE_FR_VSS: 88
+    GMC_TIRE_RL_VSS: 88
+    GMC_TIRE_RR_VSS: 88
+  response: 142AF12807624A7A58585858
+- expected_values:
+    GMC_TIRE_FL_VSS: 74
+    GMC_TIRE_FR_VSS: 74
+    GMC_TIRE_RL_VSS: 74
+    GMC_TIRE_RR_VSS: 74
+  response: |-
+    224A7A1
+    142AF12807624A7A4A4A4A4A
+- expected_values:
+    GMC_TIRE_FL_VSS: 93
+    GMC_TIRE_FR_VSS: 94
+    GMC_TIRE_RL_VSS: 94
+    GMC_TIRE_RR_VSS: 94
+  response: |-
+    224A7A1
+    142AF12807624A7A5D5E5E5E
+- expected_values:
+    GMC_TIRE_FL_VSS: 96
+    GMC_TIRE_FR_VSS: 96
+    GMC_TIRE_RL_VSS: 96
+    GMC_TIRE_RR_VSS: 96
+  response: |-
+    224A7A1
+    142AF12807624A7A60606060
