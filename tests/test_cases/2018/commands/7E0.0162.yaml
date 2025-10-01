@@ -1,0 +1,8 @@
+command_id: 7E0.0162
+test_cases:
+- expected_values:
+    TQ_ACT: 9
+  response: "0162\n7E8 03 41 62 86 "
+- expected_values:
+    TQ_ACT: 33
+  response: "01621\n7E8 03 41 62 9E "
