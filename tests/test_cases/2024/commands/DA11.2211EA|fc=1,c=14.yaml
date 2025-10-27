@@ -1,0 +1,18 @@
+command_id: DA11.2211EA|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_MIS_5: 0
+  response: 142AF111046211EA00
+- expected_values:
+    GMC_MIS_5: 0
+  response: 18DAF111046211EA00
+- expected_values:
+    GMC_MIS_5: 0
+  response: |-
+    2211EA1
+    142AF111046211EA00
+- expected_values:
+    GMC_MIS_5: 0
+  response: |-
+    2211EA1
+    18DAF111046211EA00
