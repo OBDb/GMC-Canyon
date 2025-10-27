@@ -1,0 +1,36 @@
+command_id: DA11.224DC0|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_EOL: 60.39216
+  response: 142AF11104624DC09A
+- expected_values:
+    GMC_EOL: 60.78431
+  response: 142AF11104624DC09B
+- expected_values:
+    GMC_EOL: 61.56863
+  response: 142AF11104624DC09D
+- expected_values:
+    GMC_EOL: 61.96078
+  response: 142AF11104624DC09E
+- expected_values:
+    GMC_EOL: 62.35294
+  response: 142AF11104624DC09F
+- expected_values:
+    GMC_EOL: 62.7451
+  response: 142AF11104624DC0A0
+- expected_values:
+    GMC_EOL: 63.13725
+  response: 142AF11104624DC0A1
+- expected_values:
+    GMC_EOL: 62.7451
+  response: 18DAF11104624DC0A0
+- expected_values:
+    GMC_EOL: 63.13725
+  response: |-
+    224DC01
+    142AF11104624DC0A1
+- expected_values:
+    GMC_EOL: 62.7451
+  response: |-
+    224DC01
+    18DAF11104624DC0A0
