@@ -1,5 +1,8 @@
 command_id: DA28.224C2D|fc=1,c=14
 test_cases:
 - expected_values:
+    GMC_STEER_ANGLE: 1.056
+  response: 142AF12805624C2D0030
+- expected_values:
     GMC_STEER_ANGLE: -1.804
   response: 142AF12805624C2DFFAE

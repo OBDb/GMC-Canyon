@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GMC_EOT: 66
   response: 142AF1110462153E6A
+- expected_values:
+    GMC_EOT: 87
+  response: 142AF1110462153E7F
