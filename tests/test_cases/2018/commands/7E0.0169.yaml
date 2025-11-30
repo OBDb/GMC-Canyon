@@ -5,7 +5,7 @@ test_cases:
     EGR_A_ACT_SUP: 1
     EGR_A_CMD: 0
     EGR_A_CMD_SUP: 1
-    EGR_A_ERR: -28
+    EGR_A_ERR: 0
     EGR_A_ERR_SUP: 1
     EGR_B_ACT: 0
     EGR_B_ACT_SUP: 0
@@ -19,7 +19,7 @@ test_cases:
     EGR_A_ACT_SUP: 1
     EGR_A_CMD: 1.17647
     EGR_A_CMD_SUP: 1
-    EGR_A_ERR: -17.0625
+    EGR_A_ERR: 10.9375
     EGR_A_ERR_SUP: 1
     EGR_B_ACT: 0
     EGR_B_ACT_SUP: 0
@@ -33,7 +33,7 @@ test_cases:
     EGR_A_ACT_SUP: 1
     EGR_A_CMD: 1.56863
     EGR_A_CMD_SUP: 1
-    EGR_A_ERR: -39.71875
+    EGR_A_ERR: -11.71875
     EGR_A_ERR_SUP: 1
     EGR_B_ACT: 0
     EGR_B_ACT_SUP: 0
@@ -47,7 +47,7 @@ test_cases:
     EGR_A_ACT_SUP: 1
     EGR_A_CMD: 3.13725
     EGR_A_CMD_SUP: 1
-    EGR_A_ERR: -30.34375
+    EGR_A_ERR: -2.34375
     EGR_A_ERR_SUP: 1
     EGR_B_ACT: 0
     EGR_B_ACT_SUP: 0
