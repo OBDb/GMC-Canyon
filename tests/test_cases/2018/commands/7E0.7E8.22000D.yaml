@@ -8,6 +8,11 @@ test_cases:
   response: "22000D\n7E8 04 62 00 0D 2F "
 - expected_values:
     GMC_VSS: 0
+  response: |-
+    22000D
+    7E80462000D00
+- expected_values:
+    GMC_VSS: 0
   response: "22000D1\n7E8 04 62 00 0D 00 "
 - expected_values:
     GMC_VSS: 62
