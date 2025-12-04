@@ -10,6 +10,11 @@ test_cases:
     GMC_RUNTM: 2147
   response: "2211A1\n7E8 05 62 11 A1 08 63 "
 - expected_values:
+    GMC_RUNTM: 0
+  response: |-
+    2211A1
+    7E8056211A10000
+- expected_values:
     GMC_RUNTM: 98
   response: |-
     2211A1
