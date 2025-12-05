@@ -77,6 +77,7 @@ supported_commands_by_ecu:
   - 7E0.0151:FUEL_TYP
   - 7E0.015C:EOT
   - 7E0.015D:FUEL_TIMING
+  - 7E0.015E:FUEL_RATE
   - 7E0.0161:TQ_DD
   - 7E0.0162:TQ_ACT
   - 7E0.0163:TQ_REF
