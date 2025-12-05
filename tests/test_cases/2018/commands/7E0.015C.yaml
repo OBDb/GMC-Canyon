@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     EOT: 83
   response: "015C1\n7E8 03 41 5C 7B "
+- expected_values:
+    EOT: 84
+  response: 7E803415C7C
