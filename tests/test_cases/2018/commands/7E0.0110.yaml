@@ -7,5 +7,11 @@ test_cases:
     MAF: 33.96
   response: "01101\n7E8 04 41 10 0D 44 "
 - expected_values:
+    MAF: 0
+  response: '7E80441100000'
+- expected_values:
+    MAF: 41.77
+  response: '7E80441101051'
+- expected_values:
     MAF: 59.17
   response: 7E8044110171D
