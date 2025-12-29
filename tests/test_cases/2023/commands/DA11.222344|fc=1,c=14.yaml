@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GMC_EO_AP: 260
   response: 142AF1110462234441
+- expected_values:
+    GMC_EO_AP: 264
+  response: 142AF1110462234442
