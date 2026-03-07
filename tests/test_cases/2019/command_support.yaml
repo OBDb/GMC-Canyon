@@ -36,6 +36,7 @@ supported_commands_by_ecu:
   - 7E0.0110:MAF
   - 7E0.0131:CLR_DIST
   - 7E0.0144:EQ_RAT
+  - 7E0.0146:AAT
   - 7E0.2211A1:GMC_RUNTM
   - 7E0.7E8.22000D:GMC_VSS
 unsupported_commands_by_ecu:
