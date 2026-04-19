@@ -4,5 +4,5 @@ test_cases:
     GMC_TF_T_FLTED: 22
   response: 142AF1180462295A3E
 - expected_values:
-    GMC_TF_T_FLTED: 83
-  response: 142AF1180462295A7B
+    GMC_TF_T_FLTED: 99
+  response: 142AF1180462295A8B
