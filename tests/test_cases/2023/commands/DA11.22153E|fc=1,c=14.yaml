@@ -1,11 +1,8 @@
 command_id: DA11.22153E|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_EOT: 56
-  response: 142AF1110462153E60
+    GMC_EOT_V2: 19
+  response: 142AF1110462153E3B
 - expected_values:
-    GMC_EOT: 66
-  response: 142AF1110462153E6A
-- expected_values:
-    GMC_EOT: 87
-  response: 142AF1110462153E7F
+    GMC_EOT_V2: 92
+  response: 142AF1110462153E84

@@ -1,0 +1,8 @@
+command_id: DA18.2AF118.221940|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_TFT: 22
+  response: 142AF118046219403E
+- expected_values:
+    GMC_TFT: 83
+  response: 142AF118046219407B
