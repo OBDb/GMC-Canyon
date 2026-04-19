@@ -1,8 +1,11 @@
 command_id: DA11.220010|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_MAF: 4.28
-  response: 142AF1110562001001AC
+    GMC_MAF: 0
+  response: 142AF111056200100000
 - expected_values:
-    GMC_MAF: 4.36
-  response: 142AF1110562001001B4
+    GMC_MAF: 17.87
+  response: 142AF1110562001006FB
+- expected_values:
+    GMC_MAF: 70.51
+  response: 142AF111056200101B8B
