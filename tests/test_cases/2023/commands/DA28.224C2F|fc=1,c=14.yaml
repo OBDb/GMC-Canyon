@@ -4,8 +4,8 @@ test_cases:
     GMC_LAT_G: 0
   response: 142AF12805624C2F0000
 - expected_values:
-    GMC_LAT_G: -0.32493
-  response: 142AF12805624C2FFF34
+    GMC_LAT_G: -0.35679
+  response: 142AF12805624C2FFF20
 - expected_values:
     GMC_LAT_G: -0.00637
   response: 142AF12805624C2FFFFC
