@@ -4,5 +4,5 @@ test_cases:
     GMC_EOT_V2: 19
   response: 142AF1110462153E3B
 - expected_values:
-    GMC_EOT_V2: 99
-  response: 142AF1110462153E8B
+    GMC_EOT_V2: 100
+  response: 142AF1110462153E8C
