@@ -1,6 +1,9 @@
 command_id: DA11.2236A7|fc=1,c=14
 test_cases:
 - expected_values:
+    GMC_AIRFILT_LIFE: 35
+  response: 142AF111056236A72310
+- expected_values:
     GMC_AIRFILT_LIFE: 40
   response: 142AF111056236A72810
 - expected_values:
