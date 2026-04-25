@@ -7,5 +7,5 @@ test_cases:
     GMC_TC_SLIP_VSS: 319.875
   response: 142AF1180562199109FF
 - expected_values:
-    GMC_TC_SLIP_VSS: -27.375
-  response: 142AF11805621991FF25
+    GMC_TC_SLIP_VSS: -27.875
+  response: 142AF11805621991FF21
