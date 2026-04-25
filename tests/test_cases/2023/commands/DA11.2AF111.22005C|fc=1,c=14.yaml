@@ -4,5 +4,5 @@ test_cases:
     GMC_EOT: 21
   response: 142AF1110462005C3D
 - expected_values:
-    GMC_EOT: 102
-  response: 142AF1110462005C8E
+    GMC_EOT: 103
+  response: 142AF1110462005C8F
