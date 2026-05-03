@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GMC_DPF_EGT_2: -40
   response: 142AF1110562303B0000
+- expected_values:
+    GMC_DPF_EGT_2: 850
+  response: 142AF1110562303B22C4
