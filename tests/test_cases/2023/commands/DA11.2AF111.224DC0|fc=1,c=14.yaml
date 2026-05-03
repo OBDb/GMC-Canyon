@@ -1,32 +1,8 @@
 command_id: DA11.2AF111.224DC0|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_EO_LIFE_REMAINING: 25.09804
-  response: 142AF11104624DC040
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 25.4902
-  response: 142AF11104624DC041
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 25.88235
-  response: 142AF11104624DC042
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 26.27451
-  response: 142AF11104624DC043
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 26.66667
-  response: 142AF11104624DC044
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 27.05882
-  response: 142AF11104624DC045
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 27.45098
-  response: 142AF11104624DC046
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 27.84314
-  response: 142AF11104624DC047
-- expected_values:
-    GMC_EO_LIFE_REMAINING: 28.23529
-  response: 142AF11104624DC048
+    GMC_EO_LIFE_REMAINING: 24.70588
+  response: 142AF11104624DC03F
 - expected_values:
     GMC_EO_LIFE_REMAINING: 28.62745
   response: 142AF11104624DC049
