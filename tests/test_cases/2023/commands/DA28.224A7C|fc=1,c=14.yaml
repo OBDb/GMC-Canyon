@@ -4,5 +4,5 @@ test_cases:
     GMC_BP: 0
   response: 142AF12804624A7C0A
 - expected_values:
-    GMC_BP: 3500
-  response: 142AF12804624A7C2D
+    GMC_BP: 4700
+  response: 142AF12804624A7C39
