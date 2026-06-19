@@ -35,6 +35,8 @@ supported_commands_by_ecu:
   - DA18.2AF118.221991|fc=1,c=14:GMC_TC_SLIP_VSS
   - DA18.2AF118.221B30|fc=1,c=14:GMC_CURRENT_GEAR,GMC_GEAR
   - DA18.2AF118.22295A|fc=1,c=14:GMC_TF_T_FLTED
+  "DA1A":
+  - DA1A.22448F|fc=1,c=14:GMC_ODO
   "DA28":
   - DA28.224A7C|fc=1,c=14:GMC_BP
   - DA28.224C2D|fc=1,c=14:GMC_STEER_ANGLE
@@ -295,8 +297,6 @@ unsupported_commands_by_ecu:
   "DA18":
   - DA18.221940
   - DA18.221B30
-  "DA1A":
-  - DA1A.22448F|fc=1,c=14:GMC_ODO
   "DA1D":
   - DA1D.2233E5:GMC_HVBAT_V
   "DA28":
