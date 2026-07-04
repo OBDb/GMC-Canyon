@@ -1,5 +1,8 @@
 command_id: 7E0.7E8.222345
 test_cases:
 - expected_values:
-    GMC_EOP_V2: 300
-  response: 7E8046223454B
+    GMC_EOP_V2: 256
+  response: '7E80462234540'
+- expected_values:
+    GMC_EOP_V2: 332
+  response: '7E80462234553'
