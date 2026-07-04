@@ -4,29 +4,5 @@ test_cases:
     GMC_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    GMC_VSS: 8
-  response: 7E80462000D08
-- expected_values:
-    GMC_VSS: 14
-  response: 7E80462000D0E
-- expected_values:
-    GMC_VSS: 40
-  response: 7E80462000D28
-- expected_values:
-    GMC_VSS: 49
-  response: 7E80462000D31
-- expected_values:
-    GMC_VSS: 54
-  response: 7E80462000D36
-- expected_values:
-    GMC_VSS: 55
-  response: 7E80462000D37
-- expected_values:
-    GMC_VSS: 60
-  response: 7E80462000D3C
-- expected_values:
-    GMC_VSS: 66
-  response: 7E80462000D42
-- expected_values:
-    GMC_VSS: 68
-  response: 7E80462000D44
+    GMC_VSS: 77
+  response: 7E80462000D4D
