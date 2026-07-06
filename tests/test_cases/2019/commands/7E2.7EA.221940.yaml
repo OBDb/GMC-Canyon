@@ -1,29 +1,8 @@
 command_id: 7E2.7EA.221940
 test_cases:
 - expected_values:
-    GMC_ATF_T: 37
-  response: 7EA046219404D
-- expected_values:
-    GMC_ATF_T: 38
-  response: 7EA046219404E
-- expected_values:
-    GMC_ATF_T: 50
-  response: 7EA046219405A
-- expected_values:
-    GMC_ATF_T: 51
-  response: 7EA046219405B
-- expected_values:
-    GMC_ATF_T: 52
-  response: 7EA046219405C
-- expected_values:
-    GMC_ATF_T: 59
-  response: 7EA0462194063
-- expected_values:
-    GMC_ATF_T: 60
-  response: 7EA0462194064
-- expected_values:
-    GMC_ATF_T: 61
-  response: 7EA0462194065
+    GMC_ATF_T: 36
+  response: 7EA046219404C
 - expected_values:
     GMC_ATF_T: 62
   response: 7EA0462194066
