@@ -4,5 +4,5 @@ test_cases:
     GMC_EOP_V2: 0
   response: '7E80462234500'
 - expected_values:
-    GMC_EOP_V2: 332
-  response: '7E80462234553'
+    GMC_EOP_V2: 648
+  response: 7E804622345A2
