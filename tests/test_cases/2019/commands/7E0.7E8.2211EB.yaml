@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GMC_MISFIRES_C6_CUR_V2: 0
   response: 7E8046211EB00
+- expected_values:
+    GMC_MISFIRES_C6_CUR_V2: 2
+  response: 7E8046211EB02
