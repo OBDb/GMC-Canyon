@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.2213AF
-test_cases:
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 0
-  response: 7E8046213AF00
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 84.31373
-  response: 7E8046213AFD7
