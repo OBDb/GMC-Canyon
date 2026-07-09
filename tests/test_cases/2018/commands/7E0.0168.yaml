@@ -1,0 +1,30 @@
+command_id: 7E0.0168
+test_cases:
+- expected_values:
+    IAT_11: 23
+    IAT_11_SUP: 1
+    IAT_12: 30
+    IAT_12_SUP: 1
+    IAT_13: 53
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: "0168\n7E8 10 09 41 68 07 3F 46 5D \n7E8 21 28 28 28 AA AA AA AA "
+- expected_values:
+    IAT_11: 24
+    IAT_11_SUP: 1
+    IAT_12: 31
+    IAT_12_SUP: 1
+    IAT_13: 58
+    IAT_13_SUP: 1
+    IAT_21: 0
+    IAT_21_SUP: 0
+    IAT_22: 0
+    IAT_22_SUP: 0
+    IAT_23: 0
+    IAT_23_SUP: 0
+  response: "0168\n7E8 10 09 41 68 07 40 47 62 \n7E8 21 28 28 28 AA AA AA AA "

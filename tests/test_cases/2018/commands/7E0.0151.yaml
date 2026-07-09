@@ -1,0 +1,5 @@
+command_id: 7E0.0151
+test_cases:
+- expected_values:
+    FUEL_TYP: DSL
+  response: "0151\n7E8 03 41 51 04 "
