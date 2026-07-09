@@ -1,0 +1,21 @@
+command_id: DA11.2236A7|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_AIRFILT_LIFE: 70
+  response: 142AF111056236A74610
+- expected_values:
+    GMC_AIRFILT_LIFE: 75
+  response: 142AF111056236A74B10
+- expected_values:
+    GMC_AIRFILT_LIFE: 75
+  response: 18DAF111056236A74B10
+- expected_values:
+    GMC_AIRFILT_LIFE: 75
+  response: |-
+    2236A71
+    142AF111056236A74B10
+- expected_values:
+    GMC_AIRFILT_LIFE: 75
+  response: |-
+    2236A71
+    18DAF111056236A74B10
