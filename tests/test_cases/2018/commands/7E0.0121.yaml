@@ -1,0 +1,23 @@
+command_id: 7E0.0121
+test_cases:
+- expected_values:
+    MIL_DIST: 61
+  response: "0121\n7E8 04 41 21 00 3D "
+- expected_values:
+    MIL_DIST: 61
+  response: "01211\n7E8 04 41 21 00 3D "
+- expected_values:
+    MIL_DIST: 62
+  response: "01211\n7E8 04 41 21 00 3E "
+- expected_values:
+    MIL_DIST: 63
+  response: "01211\n7E8 04 41 21 00 3F "
+- expected_values:
+    MIL_DIST: 64
+  response: "01211\n7E8 04 41 21 00 40 "
+- expected_values:
+    MIL_DIST: 0
+  response: '7E80441210000'
+- expected_values:
+    MIL_DIST: 66
+  response: '7E80441210042'
