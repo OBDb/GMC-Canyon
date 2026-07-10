@@ -1,0 +1,11 @@
+command_id: 7E0.017F
+test_cases:
+- expected_values:
+    IDLE_TIME: 2082646
+    IDLE_TIME_SUP: 1
+    PTO_TIME: 0
+    PTO_TIME_SUP: 0
+    RUN_TIME: 7689217
+    RUN_TIME_SUP: 1
+  response: "017F\n7E8 10 0F 41 7F 03 00 75 54 \n7E8 21 01 00 1F C7 56 00 00 \n7E8
+    22 00 00 AA AA AA AA AA "

@@ -1,0 +1,14 @@
+command_id: 7E0.0130
+test_cases:
+- expected_values:
+    WARM_UPS: 69
+  response: "0130\n7E8 03 41 30 45 "
+- expected_values:
+    WARM_UPS: 69
+  response: "01301\n7E8 03 41 30 45 "
+- expected_values:
+    WARM_UPS: 27
+  response: 7E80341301B
+- expected_values:
+    WARM_UPS: 69
+  response: '7E803413045'

@@ -1,0 +1,8 @@
+command_id: 7E0.0133
+test_cases:
+- expected_values:
+    BARO: 101
+  response: "0133\n7E8 03 41 33 65 "
+- expected_values:
+    BARO: 101
+  response: "01331\n7E8 03 41 33 65 "
