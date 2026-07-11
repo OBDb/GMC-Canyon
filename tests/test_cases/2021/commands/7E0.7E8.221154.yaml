@@ -4,5 +4,5 @@ test_cases:
     GMC_EOT_CALC: 41
   response: '7E80462115451'
 - expected_values:
-    GMC_EOT_CALC: 74
-  response: '7E80462115472'
+    GMC_EOT_CALC: 77
+  response: '7E80462115475'
