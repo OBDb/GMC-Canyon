@@ -13,5 +13,8 @@ test_cases:
     GMC_KNOCK_RETARD: 6.16
   response: 7E8046211A61C
 - expected_values:
+    GMC_KNOCK_RETARD: 7.7
+  response: 7E8046211A623
+- expected_values:
     GMC_KNOCK_RETARD: 7.92
   response: 7E8046211A624

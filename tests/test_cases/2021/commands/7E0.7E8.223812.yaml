@@ -4,5 +4,5 @@ test_cases:
     GMC_COOLING_FAN_CMD: 0
   response: '7E80462381200'
 - expected_values:
-    GMC_COOLING_FAN_CMD: 37.2549
-  response: 7E8046238125F
+    GMC_COOLING_FAN_CMD: 48.62745
+  response: 7E8046238127C

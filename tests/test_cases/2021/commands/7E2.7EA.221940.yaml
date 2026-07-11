@@ -4,5 +4,5 @@ test_cases:
     GMC_ATF_T: 29
   response: 7EA0462194045
 - expected_values:
-    GMC_ATF_T: 50
-  response: 7EA046219405A
+    GMC_ATF_T: 54
+  response: 7EA046219405E
