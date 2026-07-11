@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.223812
+test_cases:
+- expected_values:
+    GMC_COOLING_FAN_CMD: 0
+  response: '7E80462381200'
+- expected_values:
+    GMC_COOLING_FAN_CMD: 13.72549
+  response: '7E80462381223'
+- expected_values:
+    GMC_COOLING_FAN_CMD: 17.2549
+  response: 7E8046238122C
+- expected_values:
+    GMC_COOLING_FAN_CMD: 18.82353
+  response: '7E80462381230'
+- expected_values:
+    GMC_COOLING_FAN_CMD: 20.39216
+  response: '7E80462381234'
+- expected_values:
+    GMC_COOLING_FAN_CMD: 24.31373
+  response: 7E8046238123E
+- expected_values:
+    GMC_COOLING_FAN_CMD: 25.4902
+  response: '7E80462381241'
