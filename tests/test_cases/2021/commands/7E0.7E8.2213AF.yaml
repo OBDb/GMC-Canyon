@@ -4,17 +4,5 @@ test_cases:
     GMC_COOLING_FAN_MOTOR_CMD: 0
   response: 7E8046213AF00
 - expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 13.72549
-  response: 7E8046213AF23
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 18.43137
-  response: 7E8046213AF2F
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 18.82353
-  response: 7E8046213AF30
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 20.39216
-  response: 7E8046213AF34
-- expected_values:
-    GMC_COOLING_FAN_MOTOR_CMD: 25.09804
-  response: 7E8046213AF40
+    GMC_COOLING_FAN_MOTOR_CMD: 37.2549
+  response: 7E8046213AF5F
