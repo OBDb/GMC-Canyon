@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221154
 test_cases:
 - expected_values:
-    GMC_EOT_CALC: 41
-  response: '7E80462115451'
+    GMC_EOT_CALC: 30
+  response: '7E80462115446'
 - expected_values:
     GMC_EOT_CALC: 78
   response: '7E80462115476'
