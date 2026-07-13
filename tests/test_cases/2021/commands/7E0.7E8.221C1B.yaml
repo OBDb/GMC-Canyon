@@ -4,5 +4,5 @@ test_cases:
     GMC_EOP_CALC: 0
   response: 7E804621C1B00
 - expected_values:
-    GMC_EOP_CALC: 748
-  response: 7E804621C1BBB
+    GMC_EOP_CALC: 752
+  response: 7E804621C1BBC

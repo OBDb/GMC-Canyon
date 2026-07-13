@@ -4,5 +4,5 @@ test_cases:
     GMC_EOP_ABS: 96
   response: '7E80462234418'
 - expected_values:
-    GMC_EOP_ABS: 724
-  response: 7E804622344B5
+    GMC_EOP_ABS: 852
+  response: 7E804622344D5
