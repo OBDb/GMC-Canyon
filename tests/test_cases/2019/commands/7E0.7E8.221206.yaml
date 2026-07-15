@@ -4,5 +4,8 @@ test_cases:
     GMC_MISFIRES_C1_CUR_V2: 0
   response: '7E80462120600'
 - expected_values:
+    GMC_MISFIRES_C1_CUR_V2: 1
+  response: '7E80462120601'
+- expected_values:
     GMC_MISFIRES_C1_CUR_V2: 2
   response: '7E80462120602'
