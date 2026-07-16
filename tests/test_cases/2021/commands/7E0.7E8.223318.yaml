@@ -7,6 +7,9 @@ test_cases:
     GMC_EOP_CTRL_SOLENOID_VALVE_CMD: 0
   response: 7E8046233183D
 - expected_values:
+    GMC_EOP_CTRL_SOLENOID_VALVE_CMD: 0
+  response: 7E8046233183F
+- expected_values:
     GMC_EOP_CTRL_SOLENOID_VALVE_CMD: 1
   response: '7E80462331897'
 - expected_values:
