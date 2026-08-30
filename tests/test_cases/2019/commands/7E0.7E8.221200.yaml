@@ -6,3 +6,6 @@ test_cases:
 - expected_values:
     GMC_TOTAL_MISFIRE: 2
   response: '7E80462120002'
+- expected_values:
+    GMC_TOTAL_MISFIRE: 10
+  response: 7E8046212000A
