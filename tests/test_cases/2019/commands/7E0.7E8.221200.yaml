@@ -10,5 +10,14 @@ test_cases:
     GMC_TOTAL_MISFIRE: 4
   response: '7E80462120004'
 - expected_values:
+    GMC_TOTAL_MISFIRE: 6
+  response: '7E80462120006'
+- expected_values:
+    GMC_TOTAL_MISFIRE: 8
+  response: '7E80462120008'
+- expected_values:
     GMC_TOTAL_MISFIRE: 10
   response: 7E8046212000A
+- expected_values:
+    GMC_TOTAL_MISFIRE: 14
+  response: 7E8046212000E
