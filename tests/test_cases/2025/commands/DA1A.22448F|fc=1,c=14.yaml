@@ -1,0 +1,17 @@
+command_id: DA1A.22448F|fc=1,c=14
+test_cases:
+- expected_values:
+    GMC_ODO: 28647.375
+  response: 142AF11A0762448F001BF9D8
+- expected_values:
+    GMC_ODO: 28668.65625
+  response: 142AF11A0762448F001BFF2A
+- expected_values:
+    GMC_ODO: 28672.89062
+  response: 142AF11A0762448F001C0039
+- expected_values:
+    GMC_ODO: 28691.98438
+  response: 142AF11A0762448F001C04FF
+- expected_values:
+    GMC_ODO: 28780
+  response: 142AF11A0762448F001C1B00
