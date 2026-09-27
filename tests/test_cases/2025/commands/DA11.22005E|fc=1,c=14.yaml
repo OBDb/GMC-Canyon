@@ -1,11 +1,11 @@
 command_id: DA11.22005E|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_FUEL_RATE: 0
+    GMC_FUEL_RATE_V2: 0
   response: 142AF1110562005E0000
 - expected_values:
-    GMC_FUEL_RATE: 12.75
+    GMC_FUEL_RATE_V2: 12.75
   response: 142AF1110562005E00FF
 - expected_values:
-    GMC_FUEL_RATE: 26.75
+    GMC_FUEL_RATE_V2: 26.75
   response: 142AF1110562005E0217

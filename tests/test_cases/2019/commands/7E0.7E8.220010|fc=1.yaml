@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    GMC_MAF_V2: 0
+    GMC_MAF: 0
   response: '7E8056200100000'
 - expected_values:
-    GMC_MAF_V2: 7.33
+    GMC_MAF: 7.33
   response: 7E80562001002DD
 - expected_values:
-    GMC_MAF_V2: 19.9
+    GMC_MAF: 19.9
   response: 7E80562001007C6
