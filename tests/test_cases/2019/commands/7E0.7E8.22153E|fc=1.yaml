@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GMC_EOT_DA11: 0
   response: 7E80462153E00
+- expected_values:
+    GMC_EOT_DA11: 0
+  response: 7E80462153E28
