@@ -4,5 +4,5 @@ test_cases:
     GMC_TOT_FUEL_CONS_RATE: 0
   response: 7E80762009D00000000
 - expected_values:
-    GMC_TOT_FUEL_CONS_RATE: 1.34
-  response: 7E80762009D00430043
+    GMC_TOT_FUEL_CONS_RATE: 3.64
+  response: 7E80762009D00B600B6
