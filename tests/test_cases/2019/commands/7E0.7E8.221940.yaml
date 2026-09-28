@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    GMC_ATF_T_VAR_1: 50
-  response: 7E8046219405A
+    GMC_ATF_T_VAR_1: 42
+  response: '7E80462194052'
 - expected_values:
     GMC_ATF_T_VAR_1: 96
   response: '7E80462194088'
