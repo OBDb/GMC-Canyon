@@ -4,5 +4,5 @@ test_cases:
     GMC_AC_HIGH_SIDE_P: 111.1
   response: '7E80462156437'
 - expected_values:
-    GMC_AC_HIGH_SIDE_P: 199.98
-  response: '7E80462156463'
+    GMC_AC_HIGH_SIDE_P: 244.42
+  response: '7E80462156479'
