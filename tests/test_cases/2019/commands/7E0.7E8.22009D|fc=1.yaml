@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22009D|fc=1
 test_cases:
 - expected_values:
-    GMC_TOT_FUEL_CONS_RATE: 0
+    GMC_TOTAL_FUEL_CONSUMPTION_RATE_V2: 0
   response: 7E80762009D00000000
 - expected_values:
-    GMC_TOT_FUEL_CONS_RATE: 3.64
+    GMC_TOTAL_FUEL_CONSUMPTION_RATE_V2: 3.64
   response: 7E80762009D00B600B6
