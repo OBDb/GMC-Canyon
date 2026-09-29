@@ -1,5 +1,11 @@
 command_id: 7E0.7E8.221202
 test_cases:
 - expected_values:
+    GMC_MIS_HISTORY_2: 0
+  response: '7E8056212020000'
+- expected_values:
     GMC_MIS_HISTORY_2: 505
   response: 7E80562120201F9
+- expected_values:
+    GMC_MIS_HISTORY_2: 551
+  response: '7E8056212020227'

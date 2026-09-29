@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     GMC_14V_POWER_MODULE_V: 13
   response: 7E804621C4782
+- expected_values:
+    GMC_14V_POWER_MODULE_V: 13.9
+  response: 7E804621C478B
+- expected_values:
+    GMC_14V_POWER_MODULE_V: 14
+  response: 7E804621C478C
