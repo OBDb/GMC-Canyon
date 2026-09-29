@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    GMC_TRANS_ISS: 0
+  response: 7EA056219410000
+- expected_values:
+    GMC_TRANS_ISS: 1341.5
+  response: 7EA0562194114F6
+- expected_values:
+    GMC_TRANS_ISS: 5060
+  response: 7EA056219414F10
