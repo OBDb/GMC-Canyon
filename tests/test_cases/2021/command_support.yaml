@@ -262,7 +262,7 @@ unsupported_commands_by_ecu:
   "DA1A":
   - DA1A.22448F|fc=1,c=14:GMC_ODO
   "DA1D":
-  - DA1D.2233E5:GMC_HVBAT_V
+  - DA1D.2233E5:GMC_HVBAT_V_V2
   "DA28":
   - DA28.224A7A
   - DA28.224A7C|fc=1,c=14:GMC_BP

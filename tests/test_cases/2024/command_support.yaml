@@ -198,7 +198,7 @@ unsupported_commands_by_ecu:
   - DA18.221940
   - DA18.221B30
   "DA1D":
-  - DA1D.2233E5:GMC_HVBAT_V
+  - DA1D.2233E5:GMC_HVBAT_V_V2
   "DA28":
   - DA28.224A7A
   "DACB":
