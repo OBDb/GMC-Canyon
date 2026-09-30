@@ -4,8 +4,8 @@ test_cases:
     GMC_TRANS_ISS: 0
   response: 7EA056219410000
 - expected_values:
-    GMC_TRANS_ISS: 1341.5
-  response: 7EA0562194114F6
+    GMC_TRANS_ISS: 4158.75
+  response: 7EA0562194140FB
 - expected_values:
     GMC_TRANS_ISS: 5060
   response: 7EA056219414F10

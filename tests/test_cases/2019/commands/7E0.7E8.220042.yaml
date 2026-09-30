@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
-    GMC_M_CTRL_MODULE_V: 0.013
-  response: 7E805620042000D
+    GMC_M_CTRL_MODULE_V: 0.006
+  response: '7E8056200420006'
 - expected_values:
     GMC_M_CTRL_MODULE_V: 13.825
   response: '7E8056200423601'

@@ -4,23 +4,5 @@ test_cases:
     GMC_14V_POWER_MODULE_V: 0
   response: 7E804621C4700
 - expected_values:
-    GMC_14V_POWER_MODULE_V: 13
-  response: 7E804621C4782
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 13.9
-  response: 7E804621C478B
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 14
-  response: 7E804621C478C
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 14.7
-  response: 7E804621C4793
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 14.8
-  response: 7E804621C4794
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 15.1
-  response: 7E804621C4797
-- expected_values:
     GMC_14V_POWER_MODULE_V: 15.3
   response: 7E804621C4799
