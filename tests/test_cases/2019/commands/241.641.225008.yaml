@@ -6,3 +6,15 @@ test_cases:
 - expected_values:
     GMC_TP_RL_BCM: 247.5
   response: 641056250080F78
+- expected_values:
+    GMC_TP_RL_BCM: 253
+  response: 641056250080FD0
+- expected_values:
+    GMC_TP_RL_BCM: 255.75
+  response: 641056250080FFC
+- expected_values:
+    GMC_TP_RL_BCM: 258.5
+  response: '641056250081028'
+- expected_values:
+    GMC_TP_RL_BCM: 261.25
+  response: '641056250081054'
