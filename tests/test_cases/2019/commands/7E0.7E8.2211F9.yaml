@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     GMC_MIS_HISTORY_6: 0
   response: 7E8056211F90000
+- expected_values:
+    GMC_MIS_HISTORY_6: 2
+  response: 7E8056211F90002
