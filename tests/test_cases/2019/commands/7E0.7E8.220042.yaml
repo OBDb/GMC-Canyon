@@ -4,8 +4,11 @@ test_cases:
     GMC_M_CTRL_MODULE_V: 0.013
   response: 7E805620042000D
 - expected_values:
-    GMC_M_CTRL_MODULE_V: 13.818
-  response: 7E80562004235FA
-- expected_values:
     GMC_M_CTRL_MODULE_V: 13.825
   response: '7E8056200423601'
+- expected_values:
+    GMC_M_CTRL_MODULE_V: 14.59
+  response: 7E80562004238FE
+- expected_values:
+    GMC_M_CTRL_MODULE_V: 14.869
+  response: 7E8056200423A15
