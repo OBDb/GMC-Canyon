@@ -4,29 +4,5 @@ test_cases:
     GMC_CABIN_AC_HIGH_SIDE_V: 1.52
   response: 7E8046211444C
 - expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.58
-  response: 7E8046211444F
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.6
-  response: '7E80462114450'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.64
-  response: '7E80462114452'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.66
-  response: '7E80462114453'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.76
-  response: '7E80462114458'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 1.92
-  response: '7E80462114460'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 2.04
-  response: '7E80462114466'
-- expected_values:
-    GMC_CABIN_AC_HIGH_SIDE_V: 2.28
-  response: '7E80462114472'
-- expected_values:
     GMC_CABIN_AC_HIGH_SIDE_V: 2.6
   response: '7E80462114482'

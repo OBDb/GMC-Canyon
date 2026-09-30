@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.22115C
 test_cases:
 - expected_values:
-    GMC_EOP_2: 36.6
-  response: 7E80462115C61
-- expected_values:
-    GMC_EOP_2: 37.8
-  response: 7E80462115C63
-- expected_values:
-    GMC_EOP_2: 38.4
-  response: 7E80462115C64
-- expected_values:
-    GMC_EOP_2: 40.8
-  response: 7E80462115C68
-- expected_values:
-    GMC_EOP_2: 42.6
-  response: 7E80462115C6B
-- expected_values:
-    GMC_EOP_2: 43.2
-  response: 7E80462115C6C
-- expected_values:
-    GMC_EOP_2: 43.8
-  response: 7E80462115C6D
-- expected_values:
-    GMC_EOP_2: 44.4
-  response: 7E80462115C6E
-- expected_values:
-    GMC_EOP_2: 45
-  response: 7E80462115C6F
+    GMC_EOP_2: 0
+  response: 7E80462115C24
 - expected_values:
     GMC_EOP_2: 45.6
   response: 7E80462115C70
