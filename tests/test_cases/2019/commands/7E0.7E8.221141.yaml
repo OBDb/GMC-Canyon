@@ -4,5 +4,5 @@ test_cases:
     GMC_IGN_1_V: 0
   response: '7E80462114100'
 - expected_values:
-    GMC_IGN_1_V: 14.2
-  response: 7E8046211418E
+    GMC_IGN_1_V: 15
+  response: '7E80462114196'

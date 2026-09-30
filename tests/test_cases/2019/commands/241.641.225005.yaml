@@ -1,0 +1,11 @@
+command_id: 241.641.225005
+test_cases:
+- expected_values:
+    GMC_TP_FL_BCM: 214.5
+  response: 641056250050D68
+- expected_values:
+    GMC_TP_FL_BCM: 217.25
+  response: 641056250050D94
+- expected_values:
+    GMC_TP_FL_BCM: 231
+  response: '641056250050E70'
