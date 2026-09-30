@@ -7,5 +7,8 @@ test_cases:
     GMC_ACTIVE_GRILLE_SHUTTER_POS: 67.84314
   response: 7E804622366AD
 - expected_values:
+    GMC_ACTIVE_GRILLE_SHUTTER_POS: 73.33333
+  response: 7E804622366BB
+- expected_values:
     GMC_ACTIVE_GRILLE_SHUTTER_POS: 100
   response: 7E804622366FF

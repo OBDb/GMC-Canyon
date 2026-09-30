@@ -1,9 +1,9 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
-    GMC_AC_HIGH_SIDE_P: 111.1
-    GMC_CABIN_AC_HIGH_SIDE_P: 55
-  response: '7E80462156437'
+    GMC_AC_HIGH_SIDE_P: 105.04
+    GMC_CABIN_AC_HIGH_SIDE_P: 52
+  response: '7E80462156434'
 - expected_values:
     GMC_AC_HIGH_SIDE_P: 244.42
     GMC_CABIN_AC_HIGH_SIDE_P: 121
