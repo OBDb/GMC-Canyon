@@ -1,0 +1,8 @@
+command_id: 241.641.225008
+test_cases:
+- expected_values:
+    GMC_TP_RL_BCM: 244.75
+  response: 641056250080F4C
+- expected_values:
+    GMC_TP_RL_BCM: 247.5
+  response: 641056250080F78
