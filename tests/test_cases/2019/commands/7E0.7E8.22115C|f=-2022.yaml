@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22115C|f=-2022
 test_cases:
 - expected_values:
-    CANYON_EOP_2: 0
-  response: 7E80462115C24
+    CANYON_EOP_2: -0.6
+  response: 7E80462115C23
 - expected_values:
     CANYON_EOP_2: 81.6
   response: 7E80462115CAC

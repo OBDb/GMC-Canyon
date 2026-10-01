@@ -1,6 +1,9 @@
 command_id: 241.641.225007|f=-2022
 test_cases:
 - expected_values:
+    CANYON_TP_RR_241: 250.25
+  response: 641056250070FA4
+- expected_values:
     CANYON_TP_RR_241: 253
   response: 641056250070FD0
 - expected_values:
