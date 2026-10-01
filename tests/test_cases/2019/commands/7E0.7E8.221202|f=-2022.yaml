@@ -4,6 +4,12 @@ test_cases:
     CANYON_MIS_HISTORY_2: 0
   response: '7E8056212020000'
 - expected_values:
+    CANYON_MIS_HISTORY_2: 2
+  response: '7E8056212020002'
+- expected_values:
+    CANYON_MIS_HISTORY_2: 4
+  response: '7E8056212020004'
+- expected_values:
     CANYON_MIS_HISTORY_2: 505
   response: 7E80562120201F9
 - expected_values:

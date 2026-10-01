@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     CANYON_TP_FL_241: 247.5
   response: 641056250050F78
+- expected_values:
+    CANYON_TP_FL_241: 250.25
+  response: 641056250050FA4
