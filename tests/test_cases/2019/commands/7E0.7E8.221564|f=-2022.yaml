@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221564|f=-2022
+test_cases:
+- expected_values:
+    CANYON_AC_HIGH_SIDE_P: 105.04
+  response: '7E80462156434'
+- expected_values:
+    CANYON_AC_HIGH_SIDE_P: 244.42
+  response: '7E80462156479'

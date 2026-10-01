@@ -1,8 +1,0 @@
-command_id: 7E2.7EA.221940
-test_cases:
-- expected_values:
-    GMC_ATF_T: 32
-  response: 7EA0462194048
-- expected_values:
-    GMC_ATF_T: 76
-  response: 7EA0462194074

@@ -1,0 +1,5 @@
+command_id: 7E0.7E8.2236A7|fc=1,f=-2022
+test_cases:
+- expected_values:
+    CANYON_AIRFILT_LIFE: 0
+  response: 7E8056236A70050

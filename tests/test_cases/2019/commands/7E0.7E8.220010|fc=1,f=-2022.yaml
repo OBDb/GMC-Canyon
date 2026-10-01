@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.220010|fc=1,f=-2022
+test_cases:
+- expected_values:
+    CANYON_MAF: 0
+  response: '7E8056200100000'
+- expected_values:
+    CANYON_MAF: 5.08
+  response: 7E80562001001FC
+- expected_values:
+    CANYON_MAF: 58.01
+  response: 7E80562001016A9

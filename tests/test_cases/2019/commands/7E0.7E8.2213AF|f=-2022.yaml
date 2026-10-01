@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.2213AF|f=-2022
+test_cases:
+- expected_values:
+    CANYON_COOLING_FAN_MOTOR_CMD: 0
+  response: 7E8046213AF00
+- expected_values:
+    CANYON_COOLING_FAN_MOTOR_CMD: 88.62745
+  response: 7E8046213AFE2

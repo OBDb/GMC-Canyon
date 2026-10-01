@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.222345
-test_cases:
-- expected_values:
-    GMC_EOP: 240
-    GMC_EOP_ACT: 240
-  response: |-
-    222345
-    7E8046223453C

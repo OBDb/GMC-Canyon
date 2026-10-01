@@ -1,0 +1,20 @@
+command_id: 241.641.225008|f=-2022
+test_cases:
+- expected_values:
+    CANYON_TP_RL_241: 244.75
+  response: 641056250080F4C
+- expected_values:
+    CANYON_TP_RL_241: 247.5
+  response: 641056250080F78
+- expected_values:
+    CANYON_TP_RL_241: 253
+  response: 641056250080FD0
+- expected_values:
+    CANYON_TP_RL_241: 255.75
+  response: 641056250080FFC
+- expected_values:
+    CANYON_TP_RL_241: 258.5
+  response: '641056250081028'
+- expected_values:
+    CANYON_TP_RL_241: 261.25
+  response: '641056250081054'

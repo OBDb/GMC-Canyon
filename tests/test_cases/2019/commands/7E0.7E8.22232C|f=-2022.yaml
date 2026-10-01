@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22232C|f=-2022
+test_cases:
+- expected_values:
+    CANYON_AIR_TEMP_AMBIENT_2: 25
+  response: 7E80462232C41
+- expected_values:
+    CANYON_AIR_TEMP_AMBIENT_2: 40
+  response: 7E80462232C50
