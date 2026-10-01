@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.220010|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    CANYON_MAF_DA11: 0
+  response: 142AF111056200100000
+- expected_values:
+    CANYON_MAF_DA11: 5.1
+  response: 142AF1110562001001FE
+- expected_values:
+    CANYON_MAF_DA11: 46.47
+  response: 142AF111056200101227

@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.2236A7|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    CANYON_AIRFILT_LIFE_DA11: 75
+  response: 142AF111056236A74B10

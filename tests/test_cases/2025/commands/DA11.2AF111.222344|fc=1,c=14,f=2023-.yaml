@@ -1,0 +1,8 @@
+command_id: DA11.2AF111.222344|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    CANYON_EOP_ABS_2: 100
+  response: 142AF1110462234419
+- expected_values:
+    CANYON_EOP_ABS_2: 308
+  response: 142AF111046223444D

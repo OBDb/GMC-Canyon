@@ -479,11 +479,11 @@
   "signals": [
     {"id": "CANYON_TF_T_FLTED", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, filtered", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "0010"}, "freq": 1, "filter": { "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CANYON_MAF_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "gramsPerSecond" }, "name": "Mass airflow sensor"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "002F"}, "freq": 1, "filter": { "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "002F"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CANYON_FLI_DA11", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -491,7 +491,7 @@
   "signals": [
     {"id": "CANYON_EOT_DA11_2_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "005E"}, "freq": 1, "filter": { "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005E"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CANYON_FUEL_RATE_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "mul": 500, "div": 10000, "unit": "liters" }, "name": "Fuel consumption rate"}
   ]},
@@ -539,7 +539,7 @@
   "signals": [
     {"id": "CANYON_BP_ACT_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "2344"}, "freq": 1, "filter": { "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2344"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CANYON_EOP_ABS_2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil absolute pressure sensor"}
   ]},
@@ -563,7 +563,7 @@
   "signals": [
     {"id": "CANYON_BP_DES_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: desired"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "dbg": true, "cmd": {"22": "36A7"}, "freq": 30, "filter": { "from": 2023 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "36A7"}, "freq": 30, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
   "signals": [
     {"id": "CANYON_AIRFILT_LIFE_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Air filter life remaining"}
   ]},
