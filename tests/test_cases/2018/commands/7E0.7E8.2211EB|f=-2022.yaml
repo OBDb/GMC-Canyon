@@ -1,0 +1,7 @@
+command_id: 7E0.7E8.2211EB|f=-2022
+test_cases:
+- expected_values:
+    CANYON_MISFIRES_C6_CUR: 0
+  response: |-
+    2211EB
+    7E8046211EB00

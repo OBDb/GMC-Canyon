@@ -1,0 +1,5 @@
+command_id: 241.641.224006|f=-2022
+test_cases:
+- expected_values:
+    CANYON_TID_FR: 2042976949
+  response: 6410762400679C55AB5

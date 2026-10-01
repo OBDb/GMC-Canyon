@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.221204
-test_cases:
-- expected_values:
-    GMC_MIS_HISTORY_4: 0
-  response: '7E8056212040000'
-- expected_values:
-    GMC_MIS_HISTORY_4: 24
-  response: '7E8056212040018'

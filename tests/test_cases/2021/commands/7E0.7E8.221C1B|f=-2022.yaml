@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221C1B|f=-2022
+test_cases:
+- expected_values:
+    CANYON_EOP_CALC: 0
+  response: 7E804621C1B00
+- expected_values:
+    CANYON_EOP_CALC: 752
+  response: 7E804621C1BBC

@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.22005C|fc=1
-test_cases:
-- expected_values:
-    GMC_EOT: 42
-  response: 7E80462005C52
-- expected_values:
-    GMC_EOT: 96
-  response: 7E80462005C88

@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.221C47
-test_cases:
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 0
-  response: 7E804621C4700
-- expected_values:
-    GMC_14V_POWER_MODULE_V: 15.3
-  response: 7E804621C4799

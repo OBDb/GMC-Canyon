@@ -1,8 +1,0 @@
-command_id: 7E0.7E8.221141
-test_cases:
-- expected_values:
-    GMC_IGN_1_V: 0
-  response: '7E80462114100'
-- expected_values:
-    GMC_IGN_1_V: 15
-  response: '7E80462114196'

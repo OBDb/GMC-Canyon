@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.223318|f=-2022
+test_cases:
+- expected_values:
+    CANYON_EOP_CTRL_SOLENOID_VALVE_CMD: 0
+  response: '7E80462331805'
+- expected_values:
+    CANYON_EOP_CTRL_SOLENOID_VALVE_CMD: 0
+  response: 7E8046233183D
+- expected_values:
+    CANYON_EOP_CTRL_SOLENOID_VALVE_CMD: 0
+  response: 7E8046233183F
+- expected_values:
+    CANYON_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: '7E80462331897'
+- expected_values:
+    CANYON_EOP_CTRL_SOLENOID_VALVE_CMD: 1
+  response: 7E804623318BF
