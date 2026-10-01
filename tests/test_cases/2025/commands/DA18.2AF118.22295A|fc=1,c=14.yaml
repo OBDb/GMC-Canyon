@@ -1,8 +1,10 @@
 command_id: DA18.2AF118.22295A|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_TF_T_FLTED: 23
+    GMC_TF_T_FLTED_DA18: 23
+    GMC_TF_T_FLTED_V2: 23
   response: 142AF1180462295A3F
 - expected_values:
-    GMC_TF_T_FLTED: 99
+    GMC_TF_T_FLTED_DA18: 99
+    GMC_TF_T_FLTED_V2: 99
   response: 142AF1180462295A8B
