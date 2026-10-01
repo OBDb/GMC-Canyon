@@ -1,14 +1,14 @@
 command_id: 7E0.7E8.221205
 test_cases:
 - expected_values:
-    GMC_MISFIRES_C2_CUR_V2: 0
+    GMC_MISFIRES_C2_CUR: 0
   response: '7E80462120500'
 - expected_values:
-    GMC_MISFIRES_C2_CUR_V2: 1
+    GMC_MISFIRES_C2_CUR: 1
   response: '7E80462120501'
 - expected_values:
-    GMC_MISFIRES_C2_CUR_V2: 2
+    GMC_MISFIRES_C2_CUR: 2
   response: '7E80462120502'
 - expected_values:
-    GMC_MISFIRES_C2_CUR_V2: 4
+    GMC_MISFIRES_C2_CUR: 4
   response: '7E80462120504'
