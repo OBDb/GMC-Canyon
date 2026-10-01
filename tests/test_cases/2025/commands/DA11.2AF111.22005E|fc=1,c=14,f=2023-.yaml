@@ -1,0 +1,11 @@
+command_id: DA11.2AF111.22005E|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    CANYON_FUEL_RATE_DA11: 0
+  response: 142AF1110562005E0000
+- expected_values:
+    CANYON_FUEL_RATE_DA11: 11.35
+  response: 142AF1110562005E00E3
+- expected_values:
+    CANYON_FUEL_RATE_DA11: 27.7
+  response: 142AF1110562005E022A
