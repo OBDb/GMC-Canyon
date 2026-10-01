@@ -1,42 +1,52 @@
 command_id: DA18.2AF118.221B30|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_CURRENT_GEAR: -1
+    GMC_CURRENT_GEAR_2: PARK
+    GMC_CURRENT_GEAR_V2: -1
     GMC_GEAR: PARK
   response: 142AF11804621B3002
 - expected_values:
-    GMC_CURRENT_GEAR: 0
+    GMC_CURRENT_GEAR_2: REVERSE
+    GMC_CURRENT_GEAR_V2: 0
     GMC_GEAR: REVERSE
   response: 142AF11804621B3003
 - expected_values:
-    GMC_CURRENT_GEAR: 1
+    GMC_CURRENT_GEAR_2: D1
+    GMC_CURRENT_GEAR_V2: 1
     GMC_GEAR: D1
   response: 142AF11804621B3004
 - expected_values:
-    GMC_CURRENT_GEAR: 2
+    GMC_CURRENT_GEAR_2: D2
+    GMC_CURRENT_GEAR_V2: 2
     GMC_GEAR: D2
   response: 142AF11804621B3005
 - expected_values:
-    GMC_CURRENT_GEAR: 3
+    GMC_CURRENT_GEAR_2: D3
+    GMC_CURRENT_GEAR_V2: 3
     GMC_GEAR: D3
   response: 142AF11804621B3006
 - expected_values:
-    GMC_CURRENT_GEAR: 4
+    GMC_CURRENT_GEAR_2: D4
+    GMC_CURRENT_GEAR_V2: 4
     GMC_GEAR: D4
   response: 142AF11804621B3007
 - expected_values:
-    GMC_CURRENT_GEAR: 5
+    GMC_CURRENT_GEAR_2: D5
+    GMC_CURRENT_GEAR_V2: 5
     GMC_GEAR: D5
   response: 142AF11804621B3008
 - expected_values:
-    GMC_CURRENT_GEAR: 6
+    GMC_CURRENT_GEAR_2: D6
+    GMC_CURRENT_GEAR_V2: 6
     GMC_GEAR: D6
   response: 142AF11804621B3009
 - expected_values:
-    GMC_CURRENT_GEAR: 7
+    GMC_CURRENT_GEAR_2: D7
+    GMC_CURRENT_GEAR_V2: 7
     GMC_GEAR: D7
   response: 142AF11804621B300A
 - expected_values:
-    GMC_CURRENT_GEAR: 8
+    GMC_CURRENT_GEAR_2: D8
+    GMC_CURRENT_GEAR_V2: 8
     GMC_GEAR: D8
   response: 142AF11804621B300B

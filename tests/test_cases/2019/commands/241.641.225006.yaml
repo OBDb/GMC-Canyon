@@ -1,5 +1,5 @@
 command_id: 241.641.225006
 test_cases:
 - expected_values:
-    GMC_TP_FR_BCM: 220
+    GMC_TP_FR: 220
   response: 641056250060DC0

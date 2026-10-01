@@ -1,10 +1,12 @@
 command_id: DA18.2AF118.221B30|fc=1,c=14
 test_cases:
 - expected_values:
-    GMC_CURRENT_GEAR: -2
+    GMC_CURRENT_GEAR_2: NEUTRAL
+    GMC_CURRENT_GEAR_V2: -2
     GMC_GEAR: NEUTRAL
   response: 142AF11804621B3001
 - expected_values:
-    GMC_CURRENT_GEAR: 8
+    GMC_CURRENT_GEAR_2: D8
+    GMC_CURRENT_GEAR_V2: 8
     GMC_GEAR: D8
   response: 142AF11804621B300B
