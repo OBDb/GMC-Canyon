@@ -4,8 +4,8 @@ test_cases:
     CANYON_TRANS_ISS: 0
   response: 7EA056219410000
 - expected_values:
-    CANYON_TRANS_ISS: 4158.75
-  response: 7EA0562194140FB
+    CANYON_TRANS_ISS: 2303
+  response: 7EA0562194123FC
 - expected_values:
     CANYON_TRANS_ISS: 5060
   response: 7EA056219414F10
