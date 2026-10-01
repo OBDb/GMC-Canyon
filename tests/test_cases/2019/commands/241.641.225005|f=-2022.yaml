@@ -10,6 +10,9 @@ test_cases:
     CANYON_TP_FL_241: 231
   response: '641056250050E70'
 - expected_values:
+    CANYON_TP_FL_241: 233.75
+  response: 641056250050E9C
+- expected_values:
     CANYON_TP_FL_241: 236.5
   response: 641056250050EC8
 - expected_values:
