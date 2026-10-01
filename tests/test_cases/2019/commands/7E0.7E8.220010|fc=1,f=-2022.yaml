@@ -7,5 +7,5 @@ test_cases:
     CANYON_MAF: 5.08
   response: 7E80562001001FC
 - expected_values:
-    CANYON_MAF: 58.01
-  response: 7E80562001016A9
+    CANYON_MAF: 61.73
+  response: 7E805620010181D
