@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.22002F|fc=1,c=14,f=2023-
 test_cases:
 - expected_values:
-    CANYON_FLI_DA11: 57.2549
-  response: 142AF1110462002F92
+    CANYON_FLI_DA11: 37.2549
+  response: 142AF1110462002F5F
 - expected_values:
     CANYON_FLI_DA11: 86.27451
   response: 142AF1110462002FDC
