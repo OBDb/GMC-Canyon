@@ -4,5 +4,5 @@ test_cases:
     CANYON_EOT_DA11_2_2: 18
   response: 142AF1110462005C3A
 - expected_values:
-    CANYON_EOT_DA11_2_2: 103
-  response: 142AF1110462005C8F
+    CANYON_EOT_DA11_2_2: 106
+  response: 142AF1110462005C92
