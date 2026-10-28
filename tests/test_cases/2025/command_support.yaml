@@ -105,6 +105,7 @@ supported_commands_by_ecu:
   - DB33.0142:VPWR
   - DB33.0143:LOAD_ABS
   - DB33.0144:EQ_RAT
+  - DB33.01A6:ODO
 unsupported_commands_by_ecu:
   "241":
   - 241.641.224005
