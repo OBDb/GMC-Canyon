@@ -4,5 +4,5 @@ test_cases:
     CANYON_FLI_DA11: 22.35294
   response: 142AF1110462002F39
 - expected_values:
-    CANYON_FLI_DA11: 70.19608
-  response: 142AF1110462002FB3
+    CANYON_FLI_DA11: 74.5098
+  response: 142AF1110462002FBE
