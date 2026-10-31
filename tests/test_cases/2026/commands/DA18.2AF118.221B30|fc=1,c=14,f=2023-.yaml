@@ -27,3 +27,6 @@ test_cases:
 - expected_values:
     CANYON_GEAR: D7
   response: 142AF11804621B300A
+- expected_values:
+    CANYON_GEAR: D8
+  response: 142AF11804621B300B

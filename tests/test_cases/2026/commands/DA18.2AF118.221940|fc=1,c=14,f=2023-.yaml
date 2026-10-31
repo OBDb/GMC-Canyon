@@ -4,5 +4,5 @@ test_cases:
     CANYON_TFT: 37
   response: 142AF118046219404D
 - expected_values:
-    CANYON_TFT: 68
-  response: 142AF118046219406C
+    CANYON_TFT: 92
+  response: 142AF1180462194084

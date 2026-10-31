@@ -4,5 +4,5 @@ test_cases:
     CANYON_TF_T_FLTED_DA18: 37
   response: 142AF1180462295A4D
 - expected_values:
-    CANYON_TF_T_FLTED_DA18: 68
-  response: 142AF1180462295A6C
+    CANYON_TF_T_FLTED_DA18: 92
+  response: 142AF1180462295A84
