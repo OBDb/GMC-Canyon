@@ -479,23 +479,23 @@
   "signals": [
     {"id": "CANYON_TF_T_FLTED", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, filtered", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "0010"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "CANYON_MAF_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "gramsPerSecond" }, "name": "Mass airflow sensor"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "002F"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "002F"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "CANYON_FLI_DA11", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005C"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005C"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_EOT_DA11_2_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Engine oil temperature", "suggestedMetric": "engineOilTemperature"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005E"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "005E"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "CANYON_FUEL_RATE_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 3276.75, "mul": 500, "div": 10000, "unit": "liters" }, "name": "Fuel consumption rate"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "009D"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "009D"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_TOTAL_FUEL_CONSUMPTION_RATE_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 1310.7, "mul": 200, "div": 10000, "unit": "gramsPerSecond" }, "name": "Total fuel consumption rate"}
   ]},
@@ -511,23 +511,23 @@
   "signals": [
     {"id": "CANYON_FUEL_INJECTION_C4_DA11", "path": "Fuel", "fmt": { "len": 16, "max": 1000, "mul": 1000, "div": 65535, "unit": "milliseconds" }, "name": "Fuel injection, cylinder 4"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1205"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1205"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_MISFIRES_C2_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 2"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1206"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1206"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_MISFIRES_C1_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 1"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1207"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1207"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_MISFIRES_C3_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 3"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1208"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1208"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_MISFIRES_C4_CUR_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Misfires, current, cylinder 4"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1470"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "1470"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_EOP_DA11_2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 400, "div": 100, "unit": "kilopascal" }, "name": "Engine oil pressure"}
   ]},
@@ -539,11 +539,11 @@
   "signals": [
     {"id": "CANYON_BP_ACT_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: actual"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2344"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2344"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "CANYON_EOP_ABS_2", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil absolute pressure sensor"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2345"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "2345"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_EOP_ACT", "path": "Engine", "fmt": { "len": 8, "max": 1020, "mul": 4, "unit": "kilopascal" }, "name": "Engine oil pressure: actual"}
   ]},
@@ -563,23 +563,23 @@
   "signals": [
     {"id": "CANYON_BP_DES_DA11", "path": "Engine", "fmt": { "len": 16, "max": 655.35, "mul": 100, "div": 10000, "unit": "kilopascal" }, "name": "Boost pressure: desired"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "36A7"}, "freq": 30, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "36A7"}, "freq": 30, "filter": { "from": 2023 }, "dbgfilter": { "to": 2024, "from": 2027 },
   "signals": [
     {"id": "CANYON_AIRFILT_LIFE_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "unit": "percent" }, "name": "Air filter life remaining"}
   ]},
-{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "4DC0"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA11", "rax": "2AF111", "pri": "14", "fcm1": true, "cmd": {"22": "4DC0"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_EO_LIFE_REMAINING_DA11", "path": "Engine", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Engine oil life remaining"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1940"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_TFT", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1991"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1991"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_TC_SLIP_VSS_DA18", "path": "Movement", "fmt": { "len": 16, "max": 4095.875, "min": -4096, "mul": 1250, "div": 10000, "sign": true, "unit": "rpm" }, "name": "Torque converter clutch slip speed"}
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1B30"}, "freq": 0.25, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "1B30"}, "freq": 0.25, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_GEAR", "path": "Transmission", "name": "Shift gear", "fmt": {"len": 8, "map": {
           "1":  { "description": "Neutral",       "value": "NEUTRAL" },
@@ -596,11 +596,11 @@
         }}
     }
   ]},
-{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "295A"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA18", "rax": "2AF118", "pri": "14", "fcm1": true, "cmd": {"22": "295A"}, "freq": 1, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_TF_T_FLTED_DA18", "path": "Transmission", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Transmission fluid temperature, filtered", "suggestedMetric": "transmissionFluidTemperature"}
   ]},
-{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7A"}, "freq": 0.25, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2026 },
+{ "hdr": "DA28", "rax": "2AF128", "pri": "14", "fcm1": true, "cmd": {"22": "4A7A"}, "freq": 0.25, "filter": { "from": 2023 }, "dbgfilter": { "years": [2024], "from": 2027 },
   "signals": [
     {"id": "CANYON_FL_WHEEL_VSS", "path": "Tires", "fmt": {           "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front left wheel speed"},
     {"id": "CANYON_FR_WHEEL_VSS", "path": "Tires", "fmt": {"bix": 8,  "len": 8, "max": 255, "unit": "kilometersPerHour" }, "name": "Front right wheel speed"},

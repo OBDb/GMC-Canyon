@@ -1,0 +1,5 @@
+command_id: DA11.2AF111.224DC0|fc=1,c=14,f=2023-
+test_cases:
+- expected_values:
+    CANYON_EO_LIFE_REMAINING_DA11: 36.47059
+  response: 142AF11104624DC05D
