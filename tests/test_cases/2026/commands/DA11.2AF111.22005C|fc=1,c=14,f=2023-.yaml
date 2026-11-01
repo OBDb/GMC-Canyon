@@ -1,8 +1,8 @@
 command_id: DA11.2AF111.22005C|fc=1,c=14,f=2023-
 test_cases:
 - expected_values:
-    CANYON_EOT_DA11_2_2: 42
-  response: 142AF1110462005C52
+    CANYON_EOT_DA11_2_2: 16
+  response: 142AF1110462005C38
 - expected_values:
     CANYON_EOT_DA11_2_2: 98
   response: 142AF1110462005C8A
