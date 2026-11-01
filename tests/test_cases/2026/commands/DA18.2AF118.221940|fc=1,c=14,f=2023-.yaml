@@ -1,8 +1,8 @@
 command_id: DA18.2AF118.221940|fc=1,c=14,f=2023-
 test_cases:
 - expected_values:
-    CANYON_TFT: 37
-  response: 142AF118046219404D
+    CANYON_TFT: 16
+  response: 142AF1180462194038
 - expected_values:
     CANYON_TFT: 92
   response: 142AF1180462194084
