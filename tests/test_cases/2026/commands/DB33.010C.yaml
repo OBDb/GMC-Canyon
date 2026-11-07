@@ -4,8 +4,8 @@ test_cases:
     RPM: 0
   response: 18DAF11104410C0000
 - expected_values:
-    RPM: 1343.75
-  response: 18DAF11104410C14FF
+    RPM: 767.75
+  response: 18DAF11104410C0BFF
 - expected_values:
     RPM: 3277
   response: 18DAF11104410C3334
